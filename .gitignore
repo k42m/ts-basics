@@ -4,3 +4,8 @@ node_modules
 .idea
 npm-debug.log
 dist/
+package-lock.json
+ts-basics.iml
+ts-basics.ipr
+ts-basics.iws
+.idea/*
